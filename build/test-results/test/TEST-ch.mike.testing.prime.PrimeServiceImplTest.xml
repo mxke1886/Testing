@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ch.mike.testing.prime.PrimeServiceImplTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2019-11-28T09:32:43" hostname="LAPTOP-GDUK923R" time="0.17">
+  <properties/>
+  <testcase name="getFibonacciSequenceUnder11()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.11"/>
+  <testcase name="getFibonacciSequenceUnder200()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.001"/>
+  <testcase name="getPrimesUntilMinus1()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.004"/>
+  <testcase name="getPrimesUntil0()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.001"/>
+  <testcase name="getPrimesUntil1()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.002"/>
+  <testcase name="is7Prime()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.024"/>
+  <testcase name="is9Prime()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.002"/>
+  <testcase name="getPrimesUntil12()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.002"/>
+  <testcase name="getFibonacciSequenceUnderMinus1()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.0"/>
+  <testcase name="getFibonacciSequenceUnder0()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.002"/>
+  <testcase name="getFibonacciSequenceUnder1()" classname="ch.mike.testing.prime.PrimeServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
