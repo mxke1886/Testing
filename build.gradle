@@ -4,7 +4,6 @@ plugins {
 	id 'java'
 	id 'war'
 	id "org.sonarqube" version "2.8"
-	id "com.palantir.docker" version "0.22.1"
 }
 
 group = 'ch.mike'
