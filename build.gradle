@@ -3,6 +3,8 @@ plugins {
 	id 'io.spring.dependency-management' version '1.0.8.RELEASE'
 	id 'java'
 	id 'war'
+	id "org.sonarqube" version "2.8"
+	id "com.palantir.docker" version "0.22.1"
 }
 
 group = 'ch.mike'
@@ -27,6 +29,11 @@ dependencies {
 
 	//Junit
 	testImplementation "junit:junit:4.12"
+}
+sonarqube {
+	properties {
+		property "sonar.projectKey", "mxke1886_Testing"
+	}
 }
 
 test {
